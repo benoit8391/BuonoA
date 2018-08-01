@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_ben_pda" value="name:ben_id;datatype:int,name:ben_userdate;datatype:timestamp,name:Pdt_type;datatype:string,name:Pdt_number;datatype:int,name:Pdt_name;datatype:string,name:Price;datatype:int,name:Qtd;datatype:int,name:Pdt_img;datatype:string,name:Pdt_spec;datatype:string" />
+	<infoitem key="UD_Recordset1" value="name:mb_id;datatype:int,name:mb_lastpdate;datatype:timestamp,name:mb_account;datatype:int,name:mb_password;datatype:string,name:mb_passwordcfm;datatype:string,name:mb_lastname;datatype:string,name:mb_firstname;datatype:string,name:mb_gender;datatype:string,name:mb_mobile;datatype:int,name:mb_email;datatype:string,name:mb_add_city;datatype:string,name:mb_add_detail;datatype:string,name:mb_signoff;datatype:string,name:mb_grade;datatype:string,name:mb_discount;datatype:int" />
+</info>
