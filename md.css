@@ -1,0 +1,58 @@
+@charset "utf-8";
+.ben-nav-logo{
+	max-width:200px;
+	height:auto;	
+}
+.ben-btn-align{
+	margin-left: 4em;
+}
+.ben-search{
+	padding: 0.3em 0.2em !important;
+	margin-right: 0em;
+}
+
+.ben-about-bg{
+	background:url(images/Page_01b0.gif);
+	background-size:cover;
+	background-position:20% bottom;
+	background-repeat:no-repeat;
+	height:500px;
+}
+.ben-about-text01{
+	font-size: 3em;
+	padding-top: 0em;
+	padding-left: 0.5em;
+}
+
+.ben-about-text02{
+	font-size: 2em;
+	padding-top: 1em;
+	padding-left: 1.5em;
+}
+.ben-main-bg01{
+	background:#33FF99;
+	border-radius: 300px;
+	width:300px; 
+	height:300px;
+	margin:2em 2em;
+}
+.ben-register-align-tx{
+	font-size: 20px;
+	text-align:right;
+}
+.ben-register-add-font{
+	font-size:20px;
+	padding-left: 0.5em;
+}
+.ben-register-align-blk{
+	font-size: 20px;
+	padding: 0.25em;
+	padding-right:2em;
+}
+.ben-footer-text01{
+	font-size:24px;
+}
+
+.ben-footer-text{
+	font-size: 18px;
+}

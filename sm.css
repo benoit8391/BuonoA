@@ -1,0 +1,88 @@
+@charset "utf-8";
+.ben-text01{
+	font-size:2em;
+}
+.ben-text02{
+	font-size:1.5em;
+	color: #090;
+}
+.ben-nav{
+	height:70px;
+}
+
+.ben-nav-top{
+	margin:1.4em 1em;
+	margin-left: 0em;
+}
+.ben-nav-logo{
+	max-width:200px;
+	height:auto;	
+}
+.ben-logo-align{
+	margin:-0.8em 0.5em;
+}
+.ben-btn-align{
+	margin-left: 6em;
+
+}
+
+.ben-about-bg{
+	background:url(images/Page_01b0.gif);
+	background-size:cover;
+	background-position:20% bottom;
+	background-repeat:no-repeat;
+	height:500px;
+}
+.ben-about-p{
+	padding::3em;
+}
+.ben-about-text01{
+	font-size: 3em;
+	color: #C30;
+	padding-top: 0em;
+	padding-left: 0.5em;
+}
+.ben-about-text02{
+	font-size: 2em;
+	padding-top: 1em;
+	padding-left: 1.5em;
+}
+.ben-main-bg01{
+	background:#33FF99;
+	border-radius: 300px;
+	width:300px; 
+	height:300px;
+	margin:2em auto;
+}
+.ben-register-bg{
+	margin-top:10em; 
+	padding:0px;background: url(images/banner-05.png); 
+	background-position:center top; height: 72px;	
+}
+.ben-register-align-tx{
+	font-size: 16px;
+	text-align:right;
+}
+.ben-register-align-blk{
+	font-size: 16px;
+	padding: 0.25em;
+}
+.ben-register-align-blk01{
+	font-size: 16px;
+	width:60%;
+	padding: 0.25em;
+	padding-right:2em;
+}
+.ben-footer-bg{
+	height: 200px;
+	
+}
+.ben-footer-text01{
+	font-size:22px;
+}
+.ben-footer-align01{
+	margin-left: -1em;
+}
+.ben-footer-align02{
+	margin-left: -2em;
+}

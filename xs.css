@@ -1,0 +1,84 @@
+@charset "utf-8";
+
+.ben-nav{
+	height:60px;
+}
+.ben-nav-top{
+	
+}
+.ben-nav-logo{
+	max-width:200px;
+	height:auto;	
+}
+.ben-logo-align{
+	margin:0.2em 0.5em;
+}
+.ben-about-bg{
+	padding-top: 10em;
+	background:url(images/Page_01b0.gif);
+	background-size:cover;
+	background-position:45% bottom;
+	background-repeat:no-repeat;
+	height:370px;
+}
+.ben-about-p{
+	padding::1.2em;
+}
+
+.ben-about-text01{
+	font-size: 2em;
+	color: #C30;
+	padding-top: -5em;
+	padding-left: 0em;
+}
+
+.ben-about-text02{
+	font-size: 1.4em;
+	padding-left: 0.3em;
+}
+.ben-main-bg01{
+	border-radius: 300px;
+	width:300px; 
+	height:300px;
+	margin:2em auto;
+}
+.ben-pdt-align{
+	width:150px;
+	height:150px;
+	
+	
+}
+.ben-register-bg{
+	margin-top:10em; 
+	padding:0px;background: url(images/banner-07.png);
+	background-position:center top; height: 36px;	
+}
+.ben-register-align-tx{
+	font-size: 16px;
+	text-align:right;
+}
+.ben-register-add-font{
+	font-size:16px;
+	text-align:left;
+	padding-left: 0.5em;
+}
+.ben-register-align-blk{
+	font-size: 16px;
+	padding: 0.25em;
+	padding-right:1em;
+}
+.ben-register-align-blk01{
+	font-size: 16px;
+	padding: 0.25em;
+	padding-right:1em;
+}
+.ben-footer-bg{
+	height:auto;
+	
+}
+.ben-footer-text01{
+	font-size:20px;
+}
+.ben-footer-text{
+	font-size: 16px;
+}

@@ -130,7 +130,7 @@ body,html{
               <a href="#register" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">登入註冊 <span class="caret"></span></a>
               <ul class="dropdown-menu">
                 <li><a href="#member-entry">會員登入</a></li>
-                <li><a href="#member-register">會員註冊</a></li>
+                <li><a href="#member">會員註冊</a></li>
                 <li><a href="#member-passward">忘記密碼</a></li>
               </ul>
             </li>
@@ -821,7 +821,7 @@ body,html{
 		<div class="row ben-register-bg">&nbsp;</div>
     	<div class="row" style="background:#009245; background-image:url(images/register01-08.png); background-repeat:no-repeat; background-position:left bottom; background-size:50%; color:#FFF; ">
         	<div class="row">
-            <div class="col-xs-12"><h1 style=" text-align:center;">會員註冊</h1></div>
+            <div class="col-xs-12"><h1 style=" text-align:center;"><a id="member"></a>會員註冊</h1></div>
 			</div>
         	<div class="row">
 			<div class="col-xs-12 col-sm-5">
